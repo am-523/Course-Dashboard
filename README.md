@@ -1,6 +1,6 @@
 
+<p align="center"><img src="https://user-images.githubusercontent.com/61135648/99339682-2e8d3900-28b9-11eb-9671-df722e920c5b.png" width=250></p>
 
-![logoprojectam](https://user-images.githubusercontent.com/61135648/99339682-2e8d3900-28b9-11eb-9671-df722e920c5b.png)
 <h3 align="center">
 My Course Dashboard Design UI</h3>
 
