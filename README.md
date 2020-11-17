@@ -31,7 +31,7 @@ My Course Dashboard Design UI</h3>
 
 
 # Tutorial 📸
-- <a href="https://youtu.be/ypgV-EsfUiQ">
+- <a href="https://youtu.be/wIhke6wfDtk">
 			Youtube
 		</a> 
 
